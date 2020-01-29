@@ -42,7 +42,7 @@ Stockholm                                                       .| ![ALI](https:
    * Integration of online sports API 
    * Integration of online bidding API
 
-### Flygresor AB, Stockholm — PHP Web Developer
+### Flygresor AB, Stockholm — Web Developer
    NOVEMBER 2015 - MARCH 2017
    
    * Worked as a backend developer on the core site flygresor.se. 
