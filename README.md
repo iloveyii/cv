@@ -33,6 +33,7 @@ BROMMA 168 54       |  -
    * PHP API development, Wordpress site optimization. 
    * Flax Innovation AB, Stockholm — React Developer
    
+### Flax Innovation AB, Stockholm — React Developer
    MAY 2018 - SEPTEMBER 2018
    
    * Developed a sports and betting web application using React. 
