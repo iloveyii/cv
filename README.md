@@ -8,6 +8,7 @@ Beckombergavägen 15 | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s
 BROMMA 168 54       |  - 
 
 
+
 ## SUMMARY
    Over the last 04 years I have been working with latest web technologies as a fullstack and mobile apps developer.
     
@@ -21,32 +22,57 @@ BROMMA 168 54       |  -
     
 ## EXPERIENCE
 
-### OS install
-  * Download Raspbian Buster with Desktop from `https://www.raspberrypi.org/downloads/raspbian/`.
-  * Extract the image from the above step and write to SD card using Ubuntu Image Writer or Etcher.
-  * In the boot partition of SD card `touch ssh` to enable ssh.
-  * Auto connect to wifi, nano `/etc/wpa_supplicant/wpa_supplicant.conf` and add the following at the end
-```bash
-network={
-   ssid="your-wifi"
-   psk="your-wifi-password"
-}
-``` 
-  * Eject SD card from computer and place in PI, power up PI.
-  * To ssh to PI you need to find IP and may scan network by using `nmap -sS 192.168.0.0/24` or whatever is your network.
-  * ssh pi@192.168.0.11, assuming this is your ip, default username is pi and password is raspberry. Change it by `sudo passwd pi`'
-  * Install required packages `sudo apt install bluetooth bluez libbluetooth-dev libbluetooth-dev libudev-dev`
-  
-  
-### Node - install
-  * Install Node Version Manager (NVM)
-    `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash`
-  * Source profile
-    `source ~/.bashrc`
-  * Install node v8 `nvm install 8`
-  * Set as default `nvm use 8` 
-  * If you want to use latest npm `npm install npm@latest -g`
-  
+### SoftHem Sweden, Stockholm — Fullstack Developer
+   SEPTEMBER 2018 - PRESENT
+   
+   * Worked on React and React native mobile apps. 
+   * Worked with docker containers and linux command line.
+   * Worked with Node, MySQL, PHP, Laravel, Yii, Mongo, Python. 
+   * Developed the energy calculator using React, JS. 
+   * Developed and optimized the main website using HTML5, CSS, JS, SASS.
+   * PHP API development, Wordpress site optimization. 
+   * Flax Innovation AB, Stockholm — React Developer
+   
+   MAY 2018 - SEPTEMBER 2018
+   
+   * Developed a sports and betting web application using React. 
+   * Developed mobile app triggySport in React Native. 
+   * Integration of online sports API 
+   * Integration of online bidding API
+
+
+
+Flygresor AB, Stockholm — PHP Web Developer
+NOVEMBER 2015 - MARCH 2017
+Worked as a backend developer on the core site flygresor.se. 
+Worked Facebook API integrations and MySQL Database. 
+Worked on deployments in Linux environment.
+ 
+SoftHem Sweden, Stockholm — IT Consultant
+SEPTEMBER 2013 - OCTOBER 2015
+PHP, Laravel, Yii, React, Full stack developer.
+Working on eCommerce solutions.
+APIs development and integration.
+Linux Server Administration.
+Database servers/LAMP administration.
+Social networking sites in PHP 5, BS 3.
+Worked for Trisoft Ab on their website egranner.se
+Ericsson AB, Kista, Stockholm — PHP Web Developer
+MAY 2013 - SEPTEMBER 2013
+Used PHP OOP, Yii-framework, MySQL, JS, jQuery, CSS 3, Git, E Forge for internal web application for Subjective testing
+
+Allabranscher AB, Stockholm — PHP Web Developer
+NOVEMBER 2011 - MAY 2012
+PHP OOP, Yii MVC framework Development and implementing new features. 
+Sphinx Search Engine for indexing MySQL Databases, HG. 
+Configuring Ubuntu server, Firewall, Squid Server, PowerDNS, DHCP, FTP Servers. 
+Monitor servers for performance and capacity planning
+                                                             
+oDesk Online, Freelancer — IT Consultant (PART TIME)
+SEPTEMBER 2009 - OCTOBER 2011
+Worked (part time) as a consultant here. Mainly I work as PHP developer but I also provided Linux support, Shell and Perl script, configuring and managing domains.
+Yii framework and CodeIgniter frameworks are my favorite frameworks that I used most often.
+Technology: Wordpress Framework (3.2.1) / PHP 5.2, CI, Joomla, Magento, Mysql :5+, jquery 1.3+,CSS 
      
 ## Firebase config
   * Create a google account (google.com)
