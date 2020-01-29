@@ -2,10 +2,10 @@
 RESUME
 =================
 
-Address                                                              |  !
-:-------------------------------------------------------------------:|:-------------------------:
-<div style='text-align: left'> <sup>Beckombergavägen 15</sub> </div> | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
-<div style='text-align: left'> <sup>BROMMA 168 54</sub> </div>       |  - 
+Address                    |  !
+:-------------------------:|:-------------------------:
+Beckombergavägen 15 | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
+BROMMA 168 54       |  - 
 
 
 ## SUMMARY
