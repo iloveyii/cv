@@ -2,10 +2,11 @@
 RESUME
 =================
 
-Firebase                   |  IFTTT
+Address                    |  !
 :-------------------------:|:-------------------------:
 <div style='text-align: left'> <sup>Beckombergavägen 15</sub> <br /> <sup>BROMMA 168 54</sub> </div> |  ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
-a  |  b
+![fb](https://github.com/iloveyii/iot-lab/blob/master/images/html51.png)  |  ![ifttt](https://github.com/iloveyii/iot-lab/blob/master/images/js1.png)
+![fb](https://github.com/iloveyii/iot-lab/blob/master/images/thingy.jpg)  | ![fb](https://github.com/iloveyii/iot-lab/blob/master/images/hkr.png)   
 
 
 ## Installation
