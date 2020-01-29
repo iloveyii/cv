@@ -9,9 +9,15 @@ BROMMA 168 54       |  -
 
 
 ## SUMMARY
-   * Clone repo `git clone https://github.com/iloveyii/iot-lab`
-   * npm i --unsafe-perm
-   * npm run task1 # 2,3...7
+   Over the last 04 years I have been working with latest web technologies as a fullstack and mobile apps developer.
+    
+   I have worked with JavaScript, React, React Native, HTML5, CSS 3, Gulp, SCSS for frontend development.
+   
+   In backend development I have practical experience with Node, PHP, Python, Java, Laravel, Yii2, MySQL, MongoDB, Sphinx, Elastic Search, GCP, AWS, Firebase. 
+   
+   I have expertise of working with Docker, Linux systems, Jenkins, Jira, Redmine, IoT, Data mining, Scrum and Kanban.
+    
+   I am very open minded, friendly, communicative,  and I like to play badminton, swimming, and table tennis in free time. 
     
 ## EXPERIENCE
 
