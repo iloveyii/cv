@@ -40,39 +40,43 @@ BROMMA 168 54       |  -
    * Integration of online sports API 
    * Integration of online bidding API
 
-
-
-Flygresor AB, Stockholm — PHP Web Developer
-NOVEMBER 2015 - MARCH 2017
-Worked as a backend developer on the core site flygresor.se. 
-Worked Facebook API integrations and MySQL Database. 
-Worked on deployments in Linux environment.
+### Flygresor AB, Stockholm — PHP Web Developer
+   NOVEMBER 2015 - MARCH 2017
+   
+   * Worked as a backend developer on the core site flygresor.se. 
+   * Worked Facebook API integrations and MySQL Database. 
+   * Worked on deployments in Linux environment.
  
-SoftHem Sweden, Stockholm — IT Consultant
-SEPTEMBER 2013 - OCTOBER 2015
-PHP, Laravel, Yii, React, Full stack developer.
-Working on eCommerce solutions.
-APIs development and integration.
-Linux Server Administration.
-Database servers/LAMP administration.
-Social networking sites in PHP 5, BS 3.
-Worked for Trisoft Ab on their website egranner.se
-Ericsson AB, Kista, Stockholm — PHP Web Developer
-MAY 2013 - SEPTEMBER 2013
-Used PHP OOP, Yii-framework, MySQL, JS, jQuery, CSS 3, Git, E Forge for internal web application for Subjective testing
+### SoftHem Sweden, Stockholm — IT Consultant
+   SEPTEMBER 2013 - OCTOBER 2015
+   
+   * PHP, Laravel, Yii, React, Full stack developer.
+   * Working on eCommerce solutions.
+   * APIs development and integration.
+   * Linux Server Administration.
+   * Database servers/LAMP administration.
+   * Social networking sites in PHP 5, BS 3.
+   * Worked for Trisoft Ab on their website egranner.se
 
-Allabranscher AB, Stockholm — PHP Web Developer
-NOVEMBER 2011 - MAY 2012
-PHP OOP, Yii MVC framework Development and implementing new features. 
-Sphinx Search Engine for indexing MySQL Databases, HG. 
-Configuring Ubuntu server, Firewall, Squid Server, PowerDNS, DHCP, FTP Servers. 
-Monitor servers for performance and capacity planning
+### Ericsson AB, Kista, Stockholm — PHP Web Developer
+   MAY 2013 - SEPTEMBER 2013
+   
+   * Used PHP OOP, Yii-framework, MySQL, JS, jQuery, CSS 3, Git, E Forge for internal web application for Subjective testing
+
+### Allabranscher AB, Stockholm — PHP Web Developer
+   NOVEMBER 2011 - MAY 2012
+   
+   * PHP OOP, Yii MVC framework Development and implementing new features. 
+   * Sphinx Search Engine for indexing MySQL Databases, HG. 
+   * Configuring Ubuntu server, Firewall, Squid Server, PowerDNS, DHCP, FTP Servers. 
+   * Monitor servers for performance and capacity planning
                                                              
-oDesk Online, Freelancer — IT Consultant (PART TIME)
-SEPTEMBER 2009 - OCTOBER 2011
-Worked (part time) as a consultant here. Mainly I work as PHP developer but I also provided Linux support, Shell and Perl script, configuring and managing domains.
-Yii framework and CodeIgniter frameworks are my favorite frameworks that I used most often.
-Technology: Wordpress Framework (3.2.1) / PHP 5.2, CI, Joomla, Magento, Mysql :5+, jquery 1.3+,CSS 
+### oDesk Online, Freelancer — IT Consultant (PART TIME)
+   SEPTEMBER 2009 - OCTOBER 2011
+   
+   * Worked (part time) as a consultant here. Mainly I work as PHP developer but I also provided Linux support, Shell and Perl script, configuring and managing domains.
+   * Yii framework and CodeIgniter frameworks are my favorite frameworks that I used most often.
+   * Technology: Wordpress Framework (3.2.1) / PHP 5.2, CI, Joomla, Magento, Mysql :5+, jquery 1.3+,CSS 
      
 ## Firebase config
   * Create a google account (google.com)
