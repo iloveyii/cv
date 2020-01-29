@@ -7,7 +7,16 @@ Address                    |  !
 Beckombergavägen 15 | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
 BROMMA 168 54       |  - 
 
-
+<div>
+    <div style='text-align:left'> 
+        Beckombergavägen 15 <br />
+        BROMMA 168 54
+    </div>
+    <div style='text-align:right'>
+        <img src="https://avatars0.githubusercontent.com/u/5301016?s=160&v=4" />
+          ! [ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
+    </div>
+</div>
 
 ## SUMMARY
    Over the last 04 years I have been working with latest web technologies as a fullstack and mobile apps developer.
