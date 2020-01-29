@@ -4,9 +4,9 @@ RESUME
 
 <div style="display:block; width=100%">
 
-Address                    |  !
-:-------------------------:|:-------------------------:
-Stockholm                  | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
+Address                                                         |  !
+:--------------------------------------------------------------:|:-------------------------:
+Stockholm                                                       | ![ALI](https://avatars0.githubusercontent.com/u/5301016?s=160&v=4)
     
 </div>
 
