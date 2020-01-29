@@ -78,7 +78,26 @@ BROMMA 168 54       |  -
    * Worked (part time) as a consultant here. Mainly I work as PHP developer but I also provided Linux support, Shell and Perl script, configuring and managing domains.
    * Yii framework and CodeIgniter frameworks are my favorite frameworks that I used most often.
    * Technology: Wordpress Framework (3.2.1) / PHP 5.2, CI, Joomla, Magento, Mysql :5+, jquery 1.3+,CSS 
-     
+   
+### Higher Education Commission, Pakistan — Software Developer / Administrator
+   SEPTEMBER 2007 - SEPTEMBER 2009
+   * Linux And Windows servers administration 
+   * Network Setup and Configurations 
+   * Software updates, installations and configurations
+   * Software Developer
+   * Network Support
+   * Data center Windows Server Administration
+   
+   
+### National Database & Registration, Pakistan — Team Lead
+   APRIL 2005 - SEPTEMBER 2007
+   * Implementing new site centers
+   * Installation of new software
+   * Database administration, backup, scripting
+   * System and Server Administration ML360 Raid 5
+   * Customers care and support, Team lead, training
+                                                                
+  
 ## Firebase config
   * Create a google account (google.com)
   * Goto firebase console (https://console.firebase.google.com)
