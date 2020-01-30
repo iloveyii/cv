@@ -11,7 +11,7 @@ Stockholm                                                       .| ![ALI](https:
 </div>
 
 ## SUMMARY
-   Over the last 04 years I have been working with latest web technologies as a fullstack and mobile apps developer.
+   Over the last 06 years I have been working with latest web technologies as a fullstack and mobile apps developer.
     
    I have worked with JavaScript, React, React Native, HTML5, CSS 3, Gulp, SCSS for frontend development.
    
